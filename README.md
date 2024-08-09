@@ -9,7 +9,7 @@ This study advocates for a standardized database that integrates diverse IAQ and
 ## 2. Chamber Geometry
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/80a07810-058a-490e-93cd-22b9cf201ae4">
 
-## 3. Six Chamber Experiments
-### a) CO2 experimental results of the topped inlet surface
+## 3. Six Chamber Experiments Database
+### a) CO2 experimental data of the topped inlet surface
 -------------------
-[Relative CO2 concentration Dataset] (https://github.com/xiaopinggaililu/Chamber-Database/blob/main/Topped%20Sided%20CO2%20Experiment/Line1%20Relative%20CO2%20Results.xlsx)
+[Relative CO2 Concentration Dataset](https://github.com/xiaopinggaililu/Chamber-Database/tree/4e49b308e864d67231cbf6c5194a8427e07fc173/Top%20Inlet%20CO2%20Experiment)
