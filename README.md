@@ -1,4 +1,4 @@
-# Chamber-Database
+# Chamber Indoor Environmental Database
 This database is from "Development of a Mixed Chamber Experimental and CFD Database of Indoor Environments" published in the Journal of "Building and Environment".
 
 This study advocates for a standardized database that integrates diverse IAQ and thermal comfort metrics to enhance indoor environmental conditions and presents the initial phase of this endeavor, detailing the development of a chamber experimental database. This phase involves examining six standardized experiments and over 96 distinct case studies, resulting in a comprehensive dataset of 528,000 entries, rigorously analyzed. Simultaneously, this research enhances its empirical foundation by developing and validating computational fluid dynamics (CFD) models. These models complement and refine the database, increasing its utility and robustness.
