@@ -1,7 +1,7 @@
 # Chamber Indoor Environmental Database
 This database is from "Development of a Mixed Chamber Experimental and CFD Database of Indoor Environments" published in the Journal of "Building and Environment". 
 
-DOI: 10.1016/j.buildenv.2024.111931
+[DOI](https://doi.org/10.1016/j.buildenv.2024.111931)
 
 Note: Please feel free to use this database and cite this paper to acknowledge the authors' contributions.
 
